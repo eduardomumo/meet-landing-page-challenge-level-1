@@ -1,0 +1,29 @@
+.container-vertical-line-number{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.vertical-line{
+    background: var(--slate-300);
+    width: 1px;
+    height: 5rem;
+}
+
+.circle{
+    width: 3.5rem;
+    height: 3.5rem;
+    border: solid 1px var(--slate-300);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.number-circle{
+    color: var(--slate-800);
+    font-weight: 900;;
+}

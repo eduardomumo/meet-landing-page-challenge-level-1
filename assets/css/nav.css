@@ -1,0 +1,11 @@
+nav{
+    width: auto;
+}
+
+.logo-header{
+    max-width: 7.375rem;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    display: block;
+    margin: 0 auto;
+}

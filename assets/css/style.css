@@ -1,0 +1,17 @@
+:root{
+    --cyan-600:#4D96A9;
+    --cyan-300:#8FE3F9;
+    --purple-600:#855FB1;
+    --purple-300:#D9B8FF;
+    --slate-900:#28283D;
+    --slate-800:#87879D;
+    --slate-300:#D1D1DF;
+    --white:#fafafa;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Hat Display", sans-serif;
+}
